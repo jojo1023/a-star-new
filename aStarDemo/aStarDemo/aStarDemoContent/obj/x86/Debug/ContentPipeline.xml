@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\josiah\documents\visual studio 2015\Projects\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\tile.xnb</Output>
-      <Time>2016-06-12T13:32:02.4693641-07:00</Time>
+      <Output>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\tile.xnb</Output>
+      <Time>2016-12-18T19:34:49.1138816-08:00</Time>
     </Item>
     <Item>
       <Source>testImage.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Josiah\Documents\Visual Studio 2015\Projects\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\testImage.xnb</Output>
-      <Time>2016-06-12T13:52:16.2720528-07:00</Time>
+      <Output>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\testImage.xnb</Output>
+      <Time>2016-12-18T19:34:49.1123808-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +25,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Josiah\Documents\Visual Studio 2015\Projects\aStarDemo\aStarDemo\aStarDemoContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Josiah\Documents\Visual Studio 2015\Projects\aStarDemo\aStarDemo\aStarDemo\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Josiah\Documents\Visual Studio 2015\Projects\aStarDemo\aStarDemo\aStarDemoContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Josiah\Documents\Visual Studio 2015\Projects\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemoContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Josiah\Documents\GitHub\a-star-new\aStarDemo\aStarDemo\aStarDemo\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -57,7 +57,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-12-17T02:09:55.3185519-08:00</Value>
+        <Value>2016-08-25T12:08:00.4678541-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
